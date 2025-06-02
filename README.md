@@ -4,7 +4,7 @@ This project showcases inventory data cleaning and analysis using SQL-like queri
 
 ## 🗂 Project Structure
 
-- `Notebook/` – Google Colab notebook with step-by-step cleaning & querying
+- `notebook/` – Google Colab notebook with step-by-step cleaning & querying
 - `Data/` – Raw product CSV file
 - `Pdf/` – PDF version of the final notebook for quick viewing
 
@@ -33,7 +33,7 @@ The dataset used in this project had several issues:
 To run the notebook yourself:
 
 1. Download the following two files from this repository:
-   - `Notebook/Inventory_Data_Cleaning.ipynb`
+   - `notebook/inventory_data_cleaning.ipynb`
    - `Data/product.csv`
 
 2. Go to [Google Colab](https://colab.research.google.com/).
