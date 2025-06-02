@@ -1,0 +1,1001 @@
+sku,product_name,location,stock,price
+COKE500MLUK,Coca Cola 0.5L,Paris Hub,30,1.66
+COKE500MLUK,CocaCola - 500ml,Tokyo Hub,232,1.54
+CC500PAR,Coca-Cola 500ml,New York Hub,213,1.09
+COCA500,Coke 0.5L,Johannesburg Hub,475,3.1
+CC_JHB500,Coke 0.5L,Doha Hub,36,3.54
+CC500PAR,Coca-Cola 500ml,Johannesburg Hub,456,1.87
+CC_JHB500,Coca-Cola 500ml,Johannesburg Hub,477,2.59
+COKE_TYO500,Coke 0.5L,Johannesburg Hub,210,3.87
+COCA_SG500,Coke 0.5L,Doha Hub,507,1.54
+CC_JHB500,Coca Cola 0.5L,Tokyo Hub,47,2.77
+COCA500,CocaCola,London Hub,625,2.6
+COCA_SG500,Coca Cola 0.5L,Doha Hub,574,3.76
+COKE001,Coca Cola 0.5L,Delhi Hub,589,1.07
+COCA_NY001,Coca Cola,Tokyo Hub,104,2.75
+COKE500MLUK,CocaCola,Doha Hub,137,3.32
+CC_JHB500,CocaCola,Paris Hub,782,1.04
+CC500PAR,Coke Bottle,Paris Hub,390,1.39
+COKE500MLUK,Coca-Cola Classic,Dubai Hub,351,3.61
+COCADELHI,Coke 0.5L,Paris Hub,551,1.66
+COCA_NY001,Coca Cola,Dubai Hub,569,1.32
+CC500PAR,CocaCola,New York Hub,164,3.74
+CC_JHB500,CocaCola,Doha Hub,30,1.75
+COKE_TYO500,Coca Cola 0.5L,Johannesburg Hub,420,1.36
+COCA_NY001,Coke 0.5L,New York Hub,289,2.2
+COKE500MLUK,CocaCola,Madrid Hub,267,2.15
+COKE_DXB,Coca-Cola Classic,Delhi Hub,149,3
+COKE_DXB,CocaCola,Madrid Hub,493,3.33
+COKE001,Coca-Cola Classic,Paris Hub,140,2.53
+COCA_SG500,Coke Bottle,Doha Hub,393,1.44
+CC_JHB500,Coke Bottle,Paris Hub,262,3.53
+COCA_SG500,Coca-Cola 500ml,Johannesburg Hub,535,3.67
+CC_JHB500,CocaCola Original,New York Hub,192,1.13
+CC500PAR,Coke Classic,London Hub,501,1.7
+CC500PAR,CocaCola,Delhi Hub,523,1.71
+COCA500,Coke Bottle,Singapore Hub,744,1.9
+COCA500,Coca Cola 0.5L,Doha Hub,293,3.45
+COKE001,Coke Bottle,Madrid Hub,217,2.12
+COKE_DXB,CocaCola Original,Doha Hub,119,3.26
+COCADELHI,Coca-Cola 500ml,Tokyo Hub,453,2.37
+COKE500MLUK,Coke 0.5L,Delhi Hub,738,2.29
+COCADELHI,CocaCola - 500ml,Dubai Hub,262,2.92
+CC500PAR,Coca-Cola 500ml,Delhi Hub,232,2.58
+COKE_TYO500,Coke 0.5L,New York Hub,34,2.92
+COKE500MLUK,CocaCola,Doha Hub,339,1.02
+COKE_TYO500,Coca Cola,London Hub,800,3.99
+CC500PAR,Coke Classic,New York Hub,483,2.41
+COCA500,Coca Cola,Doha Hub,143,3.59
+COCA_NY001,CocaCola Original,Doha Hub,693,2.4
+CC500PAR,Coca Cola 0.5L,Delhi Hub,90,2.56
+COKE500MLUK,CocaCola Original,Johannesburg Hub,658,3.47
+CC500PAR,CocaCola,Dubai Hub,99,3.37
+COCA500,Coke Bottle,Dubai Hub,630,2.76
+CC_JHB500,Coke Classic,Tokyo Hub,223,3.05
+CC_JHB500,Coca-Cola 500ml,Paris Hub,586,1.83
+CC_JHB500,Coke Bottle,Paris Hub,57,1.54
+COKE_DXB,CocaCola - 500ml,Singapore Hub,688,2.95
+COCA_NY001,Coca-Cola 500ml,Tokyo Hub,54,3.58
+COCA_NY001,Coke Classic,Tokyo Hub,466,1.55
+COKE001,CocaCola - 500ml,London Hub,647,3.79
+COCA_NY001,Coca Cola,Dubai Hub,371,3.98
+COCA500,Coca Cola 0.5L,Madrid Hub,443,1.62
+COKE001,Coke Bottle,New York Hub,384,2.63
+CC_JHB500,Coca-Cola Classic,Dubai Hub,396,2.14
+CC500PAR,CocaCola,Madrid Hub,781,2.24
+COCA_SG500,Coca-Cola Classic,Dubai Hub,319,2.51
+COKE500MLUK,Coca Cola 0.5L,Madrid Hub,130,2.84
+COCA500,CocaCola Original,Dubai Hub,454,3.04
+COKE500MLUK,Coke Classic,London Hub,792,1.99
+COCA_NY001,CocaCola Original,Madrid Hub,562,3.05
+COKE001,Coca Cola,London Hub,537,2.3
+COCA_SG500,Coke 0.5L,Delhi Hub,65,1.49
+COKE500MLUK,CocaCola Original,Delhi Hub,421,2.55
+COCA_SG500,Coca Cola,Doha Hub,590,1.25
+COCA500,Coca-Cola Classic,Johannesburg Hub,89,1.4
+COCA500,Coke 0.5L,Singapore Hub,526,3.53
+COKE001,Coca Cola,Paris Hub,264,2.74
+CC500PAR,Coca Cola 0.5L,Tokyo Hub,252,3.55
+COCADELHI,CocaCola - 500ml,New York Hub,598,1.71
+COKE_TYO500,CocaCola,London Hub,101,2.94
+COCA500,CocaCola Original,Dubai Hub,659,1.04
+CC500PAR,Coca-Cola 500ml,Singapore Hub,741,1.21
+COCA_SG500,Coca-Cola Classic,Delhi Hub,69,2.18
+CC500PAR,Coke Classic,Madrid Hub,499,3.21
+COKE_TYO500,CocaCola Original,Paris Hub,385,1.62
+COCA_NY001,Coca Cola 0.5L,Doha Hub,599,1.39
+COKE500MLUK,Coke 0.5L,Dubai Hub,600,2.2
+COKE001,CocaCola - 500ml,New York Hub,629,1.18
+COCA500,Coca-Cola Classic,Dubai Hub,487,1.36
+CC_JHB500,CocaCola - 500ml,Paris Hub,647,2.58
+COKE_DXB,Coke Classic,Madrid Hub,444,1.76
+COCA500,Coke Classic,Delhi Hub,234,3.21
+CC500PAR,Coke 0.5L,Johannesburg Hub,40,1.43
+COKE_TYO500,Coke Classic,New York Hub,466,3.33
+COKE_DXB,Coca Cola,Dubai Hub,640,1.69
+COCADELHI,Coca Cola,London Hub,587,2.09
+COKE_TYO500,Coke Bottle,Johannesburg Hub,572,3.52
+COCA_SG500,CocaCola Original,Madrid Hub,67,3.26
+COKE500MLUK,Coke Classic,Singapore Hub,770,2.88
+COCA500,CocaCola,New York Hub,643,1.72
+COKE_TYO500,CocaCola Original,Madrid Hub,721,1.64
+COKE_DXB,Coca Cola 0.5L,Doha Hub,431,3.37
+CC500PAR,Coca-Cola Classic,Dubai Hub,423,3.46
+COCA_SG500,Coca-Cola Classic,Singapore Hub,683,1.93
+COCA500,Coke 0.5L,Dubai Hub,211,3.55
+CC_JHB500,Coca-Cola 500ml,Paris Hub,135,2.83
+CC_JHB500,Coke 0.5L,Johannesburg Hub,635,2.53
+COKE_TYO500,Coca-Cola 500ml,Madrid Hub,363,1.44
+CC500PAR,Coca Cola,Singapore Hub,46,1.61
+CC500PAR,Coca-Cola 500ml,Singapore Hub,736,1.69
+COKE500MLUK,CocaCola - 500ml,Delhi Hub,242,2.37
+COKE_TYO500,Coca Cola,Tokyo Hub,192,3.74
+COCA_SG500,Coca-Cola 500ml,New York Hub,72,1.05
+COKE500MLUK,Coke Classic,Johannesburg Hub,606,1.77
+CC_JHB500,Coke Bottle,Singapore Hub,262,3.36
+CC500PAR,Coke Bottle,London Hub,446,1.97
+COKE001,Coca Cola 0.5L,Doha Hub,695,3.96
+COCA_NY001,CocaCola - 500ml,London Hub,427,2.57
+COCA500,Coca-Cola Classic,Madrid Hub,646,2.74
+COCADELHI,CocaCola,Paris Hub,394,3.71
+CC500PAR,Coke Bottle,Paris Hub,427,3.33
+COKE500MLUK,CocaCola - 500ml,Doha Hub,601,1.82
+COKE_TYO500,CocaCola Original,Doha Hub,338,2.73
+COKE_DXB,Coke Bottle,Singapore Hub,502,3.97
+COKE500MLUK,Coca-Cola 500ml,Madrid Hub,329,3.39
+CC_JHB500,Coke 0.5L,Johannesburg Hub,63,3.57
+CC_JHB500,Coke Bottle,Madrid Hub,247,2.85
+COKE500MLUK,CocaCola - 500ml,New York Hub,48,2.6
+COCA500,CocaCola,Johannesburg Hub,534,1.48
+COCADELHI,Coca-Cola Classic,Singapore Hub,544,3.41
+COCA_SG500,Coca Cola,Tokyo Hub,559,2.2
+COKE_TYO500,Coke Bottle,Johannesburg Hub,634,3.34
+COCA500,Coke 0.5L,Tokyo Hub,734,3.91
+COCA_NY001,Coca-Cola 500ml,New York Hub,475,3.11
+COCA_NY001,Coca Cola 0.5L,Singapore Hub,715,3.8
+CC500PAR,Coke Classic,London Hub,99,1.41
+COCA_SG500,Coca Cola,Delhi Hub,501,1.76
+CC_JHB500,Coca-Cola 500ml,Madrid Hub,133,2.91
+COCA_NY001,Coca-Cola Classic,Doha Hub,225,1.8
+COKE_TYO500,Coca-Cola Classic,Madrid Hub,618,3.9
+COKE001,Coca-Cola 500ml,Dubai Hub,682,2.98
+COKE_TYO500,Coke Bottle,Doha Hub,754,2.14
+COCADELHI,Coke Classic,Madrid Hub,515,3.69
+COKE500MLUK,CocaCola Original,Johannesburg Hub,650,3.06
+CC500PAR,Coca-Cola Classic,Johannesburg Hub,531,1.09
+COCA500,CocaCola - 500ml,Paris Hub,249,1.91
+COCA_NY001,CocaCola Original,London Hub,120,3.86
+COKE_DXB,Coke 0.5L,London Hub,406,3.1
+COCADELHI,CocaCola - 500ml,Tokyo Hub,800,1.38
+COKE_TYO500,Coca-Cola Classic,Johannesburg Hub,181,3.95
+CC500PAR,Coca-Cola Classic,Singapore Hub,794,2.63
+CC500PAR,CocaCola,Paris Hub,447,1.09
+COCA_SG500,CocaCola,Delhi Hub,531,2.12
+COCA_SG500,Coca-Cola Classic,Madrid Hub,92,2.82
+COKE500MLUK,Coca-Cola Classic,Dubai Hub,652,1.84
+CC_JHB500,Coca Cola 0.5L,London Hub,796,3.7
+COCA_SG500,CocaCola Original,Tokyo Hub,501,3.77
+COKE_TYO500,CocaCola Original,Singapore Hub,123,1.35
+COKE001,CocaCola,Singapore Hub,261,2.85
+COKE001,Coke Bottle,Doha Hub,758,1.25
+COCA_NY001,Coca Cola,Doha Hub,461,3.81
+CC_JHB500,Coca Cola 0.5L,Delhi Hub,214,1.79
+COKE_DXB,Coca-Cola Classic,Delhi Hub,314,3.08
+COKE_DXB,Coke 0.5L,Delhi Hub,140,1.79
+COCA_SG500,Coca-Cola Classic,Paris Hub,568,2.93
+COKE_DXB,Coke 0.5L,Paris Hub,495,2.54
+COCA_SG500,Coca-Cola 500ml,Singapore Hub,369,3.43
+COCA_SG500,CocaCola - 500ml,Madrid Hub,502,3.49
+COKE500MLUK,Coca Cola 0.5L,Johannesburg Hub,734,3.28
+CC_JHB500,CocaCola,Doha Hub,728,1.64
+COCADELHI,CocaCola - 500ml,Delhi Hub,633,1.42
+CC_JHB500,CocaCola Original,London Hub,100,2.55
+COKE_DXB,Coca-Cola 500ml,Singapore Hub,525,2.29
+CC500PAR,Coke Classic,Singapore Hub,470,3.19
+COCA_NY001,Coca-Cola Classic,Delhi Hub,689,2.23
+COKE001,Coca-Cola 500ml,Singapore Hub,264,1.47
+CC_JHB500,Coca Cola 0.5L,Paris Hub,102,1.16
+CC_JHB500,Coca-Cola Classic,Delhi Hub,460,2.35
+COKE500MLUK,CocaCola - 500ml,New York Hub,209,1.91
+COCA_NY001,Coke 0.5L,Madrid Hub,604,1.37
+COCA500,Coca-Cola 500ml,Singapore Hub,402,1.09
+COCA_NY001,CocaCola,Doha Hub,691,3.05
+COCADELHI,Coke Classic,Johannesburg Hub,504,2.48
+COCA_SG500,Coke Bottle,Tokyo Hub,473,3.51
+COKE500MLUK,Coca Cola,Tokyo Hub,711,3.63
+COCADELHI,CocaCola,Dubai Hub,93,1.9
+CC500PAR,Coke 0.5L,Doha Hub,458,2.41
+COCA_NY001,CocaCola - 500ml,Delhi Hub,250,3.64
+COKE_DXB,Coke Bottle,Delhi Hub,53,2.4
+COKE_DXB,Coca Cola 0.5L,Doha Hub,152,3.4
+COCA500,Coca-Cola 500ml,Singapore Hub,355,2.36
+CC500PAR,Coca-Cola 500ml,Delhi Hub,572,3.2
+COKE_TYO500,Coca-Cola 500ml,New York Hub,615,3.66
+COCA_NY001,CocaCola - 500ml,Singapore Hub,733,2.03
+COCA_SG500,Coca Cola,Paris Hub,264,2.57
+COKE001,Coca-Cola 500ml,New York Hub,693,3.1
+COCA500,CocaCola,Tokyo Hub,647,1.12
+CC_JHB500,CocaCola Original,Paris Hub,164,1.51
+CC500PAR,Coke Bottle,Doha Hub,30,2.49
+COKE500MLUK,CocaCola,Tokyo Hub,369,2.59
+COCA500,Coca Cola 0.5L,Tokyo Hub,61,3.53
+COCA500,CocaCola - 500ml,Doha Hub,412,2.13
+COKE_DXB,CocaCola - 500ml,Doha Hub,563,1.46
+COKE001,Coca Cola,Doha Hub,71,3.98
+COCA500,Coke Classic,Doha Hub,406,2.76
+CC500PAR,Coca Cola 0.5L,New York Hub,463,1.6
+COCADELHI,CocaCola Original,New York Hub,168,3.41
+CC_JHB500,CocaCola Original,Doha Hub,411,1.08
+COCADELHI,Coca-Cola Classic,Doha Hub,153,1.21
+COKE_DXB,Coca Cola,Doha Hub,52,1.03
+COCA_SG500,Coke 0.5L,Dubai Hub,356,3.9
+COCADELHI,Coke Classic,Singapore Hub,545,1.33
+CC_JHB500,Coca Cola 0.5L,New York Hub,602,1.83
+COKE500MLUK,Coca Cola 0.5L,Doha Hub,698,2.19
+COCADELHI,Coke Classic,London Hub,676,3.46
+COKE_TYO500,CocaCola Original,Madrid Hub,358,1.41
+CC_JHB500,Coke Bottle,London Hub,176,2.77
+CC_JHB500,Coke Bottle,Paris Hub,777,3.58
+COKE_TYO500,Coca Cola 0.5L,New York Hub,314,1.22
+COCA500,Coca Cola 0.5L,Doha Hub,392,2.85
+COKE_TYO500,Coca Cola 0.5L,New York Hub,136,2.17
+COKE_TYO500,Coca-Cola Classic,London Hub,295,3.38
+COCA_NY001,Coke Classic,Tokyo Hub,165,1.82
+COKE500MLUK,Coke 0.5L,Paris Hub,798,3.52
+COCA_SG500,Coca Cola,London Hub,304,1.59
+CC500PAR,Coke Classic,Dubai Hub,432,1.96
+COCADELHI,Coca Cola 0.5L,Dubai Hub,771,2.03
+COCA_SG500,Coke 0.5L,Johannesburg Hub,252,2.93
+COKE500MLUK,CocaCola Original,Singapore Hub,363,3.17
+COKE500MLUK,Coke Bottle,Tokyo Hub,637,1.63
+COKE001,Coke Classic,London Hub,119,2.84
+CC500PAR,Coca-Cola Classic,Paris Hub,118,3.65
+CC500PAR,CocaCola Original,London Hub,122,3.87
+CC_JHB500,CocaCola Original,Dubai Hub,105,1.33
+COKE001,Coca-Cola Classic,Singapore Hub,270,2.54
+COCA_NY001,CocaCola - 500ml,Paris Hub,635,2.96
+COCADELHI,Coke Bottle,New York Hub,686,3.69
+COKE001,Coke Bottle,London Hub,620,2.17
+COCA500,CocaCola Original,Dubai Hub,491,3.14
+COCA500,CocaCola - 500ml,Johannesburg Hub,800,3.95
+COKE001,Coca Cola,Singapore Hub,388,1.91
+COKE001,Coca-Cola 500ml,Tokyo Hub,161,1.31
+COCA_SG500,Coca-Cola Classic,Doha Hub,390,3.73
+COKE_TYO500,Coke 0.5L,Doha Hub,190,2.82
+COKE001,Coke Bottle,Johannesburg Hub,344,3.33
+COCA500,Coke 0.5L,New York Hub,230,2.92
+COCADELHI,CocaCola,Madrid Hub,135,2.88
+COCADELHI,Coke Bottle,Madrid Hub,504,2.02
+COKE_DXB,Coca Cola 0.5L,Paris Hub,646,3.15
+COKE_TYO500,Coke Classic,New York Hub,182,1.56
+COKE_TYO500,Coke Classic,Madrid Hub,688,2.58
+COCA500,Coca-Cola Classic,Tokyo Hub,682,3.04
+COKE_TYO500,Coke 0.5L,Dubai Hub,662,2.5
+COKE_TYO500,Coca Cola,Singapore Hub,399,1.28
+COCA_NY001,CocaCola,Johannesburg Hub,379,3.2
+COKE_DXB,Coke Classic,Paris Hub,612,2.33
+CC500PAR,Coke Bottle,Delhi Hub,542,1.57
+COCA_NY001,Coca-Cola Classic,Johannesburg Hub,588,2.76
+CC_JHB500,CocaCola Original,Delhi Hub,289,1.85
+COKE500MLUK,Coke Classic,New York Hub,445,1.55
+COKE500MLUK,Coca Cola,Dubai Hub,428,2.65
+COKE_DXB,CocaCola,Dubai Hub,299,2.33
+COCA_SG500,Coke 0.5L,Paris Hub,645,2.09
+COCA500,Coke Bottle,Singapore Hub,551,2.53
+CC500PAR,Coca Cola,London Hub,772,2.86
+COKE_TYO500,CocaCola - 500ml,New York Hub,320,1.25
+CC500PAR,Coca-Cola Classic,Delhi Hub,681,3.36
+COKE_TYO500,CocaCola Original,Doha Hub,30,2.1
+COKE_TYO500,Coca-Cola 500ml,Delhi Hub,367,3.87
+COKE001,Coca Cola 0.5L,New York Hub,598,1.35
+CC500PAR,CocaCola - 500ml,New York Hub,91,2.09
+CC500PAR,Coke Classic,Dubai Hub,145,3.06
+CC500PAR,Coca-Cola Classic,Delhi Hub,571,1.71
+CC_JHB500,Coca-Cola Classic,Singapore Hub,739,2.76
+COCA_NY001,CocaCola - 500ml,Dubai Hub,313,3.15
+COKE001,Coke Classic,Madrid Hub,365,2.3
+COCA500,Coke Bottle,Johannesburg Hub,785,2.42
+COCADELHI,CocaCola - 500ml,London Hub,105,3.41
+CC500PAR,Coca-Cola 500ml,New York Hub,281,1.05
+COKE001,CocaCola,Madrid Hub,788,3.23
+COCA_SG500,Coke 0.5L,Dubai Hub,323,2.33
+COCA500,CocaCola,Doha Hub,547,3.67
+COKE_TYO500,CocaCola - 500ml,London Hub,259,3.49
+COCA500,CocaCola,New York Hub,310,2.53
+COKE_DXB,Coke Classic,Paris Hub,715,2.09
+COKE500MLUK,Coca Cola,London Hub,404,2.47
+COKE_DXB,CocaCola,Delhi Hub,176,2.49
+CC500PAR,Coca Cola 0.5L,Tokyo Hub,424,3.17
+COCA_SG500,CocaCola - 500ml,Paris Hub,614,3.41
+COCADELHI,Coca-Cola 500ml,Singapore Hub,628,2.78
+COKE_TYO500,Coke Classic,Delhi Hub,549,2.32
+COKE_DXB,Coca-Cola 500ml,Doha Hub,303,2.35
+COKE_DXB,Coca Cola,London Hub,300,1.44
+COKE_TYO500,Coca-Cola Classic,Doha Hub,369,1.22
+COCADELHI,Coke Classic,Doha Hub,188,2.64
+COCA_NY001,CocaCola Original,New York Hub,153,2.37
+COCA500,Coke Bottle,Tokyo Hub,323,3.46
+COCADELHI,Coke Bottle,New York Hub,255,2.11
+COKE001,Coke Bottle,Paris Hub,566,3.89
+COCA500,Coca-Cola 500ml,London Hub,339,2.86
+COCA500,Coca Cola,Delhi Hub,171,1.51
+COCA_NY001,Coca-Cola 500ml,Singapore Hub,376,2.57
+CC_JHB500,CocaCola Original,Delhi Hub,108,3.92
+COCA_SG500,Coca Cola 0.5L,Johannesburg Hub,81,3.37
+CC500PAR,Coca-Cola 500ml,Delhi Hub,387,2.38
+COKE500MLUK,Coke Bottle,Singapore Hub,418,3.41
+COCA500,Coca-Cola Classic,Johannesburg Hub,46,3.85
+COCA500,Coca-Cola 500ml,Dubai Hub,507,1.91
+COKE001,CocaCola,Doha Hub,764,3.63
+COCADELHI,CocaCola - 500ml,London Hub,70,3.33
+COKE_DXB,CocaCola,London Hub,571,1.94
+CC_JHB500,Coca Cola,Johannesburg Hub,479,1.42
+CC500PAR,Coca Cola,Tokyo Hub,324,2.59
+COCA500,Coke 0.5L,Tokyo Hub,325,2.2
+COCADELHI,Coke Bottle,Doha Hub,555,1.39
+COKE_TYO500,Coke Bottle,Tokyo Hub,727,3.46
+COKE_DXB,Coca-Cola 500ml,Singapore Hub,312,1.13
+COCA_SG500,CocaCola,Paris Hub,782,2.7
+COKE500MLUK,Coke 0.5L,Singapore Hub,448,1.38
+COCA500,Coca Cola,Dubai Hub,203,1.74
+CC_JHB500,Coca-Cola 500ml,New York Hub,658,3.3
+COCADELHI,CocaCola - 500ml,Tokyo Hub,329,3.58
+COCA500,Coca-Cola 500ml,New York Hub,587,2.73
+COCA_NY001,CocaCola,New York Hub,514,2.57
+COCA_NY001,Coca Cola 0.5L,Tokyo Hub,126,1.92
+COKE_TYO500,Coca Cola 0.5L,Madrid Hub,590,3.53
+COCADELHI,CocaCola - 500ml,New York Hub,99,3.54
+CC500PAR,CocaCola - 500ml,Johannesburg Hub,402,1.58
+CC500PAR,CocaCola - 500ml,London Hub,442,2.83
+CC500PAR,Coke Bottle,Paris Hub,253,1.83
+COCADELHI,CocaCola,Delhi Hub,163,2.85
+COKE_DXB,CocaCola,Delhi Hub,312,2.82
+CC_JHB500,Coke Bottle,Johannesburg Hub,511,3.17
+COCA500,Coke Bottle,London Hub,238,2.15
+COCADELHI,Coke Classic,London Hub,331,2.31
+CC500PAR,Coca Cola 0.5L,Singapore Hub,522,1.39
+COKE_DXB,Coca-Cola Classic,Tokyo Hub,365,2.37
+COKE_DXB,CocaCola,London Hub,712,3.29
+COKE_DXB,CocaCola - 500ml,Doha Hub,611,1.47
+COCA500,Coke 0.5L,Madrid Hub,238,2.38
+COKE001,Coca Cola,Johannesburg Hub,124,3.58
+COKE_TYO500,CocaCola Original,Delhi Hub,151,2.68
+COCADELHI,Coca Cola,Doha Hub,72,3.95
+COCA_NY001,Coca Cola,New York Hub,374,1.85
+CC_JHB500,CocaCola - 500ml,Doha Hub,281,1.19
+CC_JHB500,Coca-Cola 500ml,Johannesburg Hub,433,2.38
+COCA_NY001,Coca-Cola 500ml,Tokyo Hub,106,2.18
+COCA_SG500,CocaCola,Madrid Hub,510,3.05
+COKE500MLUK,CocaCola Original,Delhi Hub,416,3.14
+CC_JHB500,Coke 0.5L,Johannesburg Hub,654,3.89
+COCA_NY001,Coca Cola,Delhi Hub,564,2.79
+COCA500,CocaCola,Dubai Hub,348,1.24
+COCA_NY001,CocaCola - 500ml,Delhi Hub,30,2.67
+COCADELHI,Coca Cola,Dubai Hub,791,1.35
+COKE500MLUK,Coke Bottle,Delhi Hub,106,3.9
+COCADELHI,CocaCola - 500ml,Doha Hub,764,2.13
+COKE_TYO500,CocaCola Original,Doha Hub,602,2.99
+COKE001,Coca Cola 0.5L,London Hub,73,2.79
+CC_JHB500,Coca-Cola Classic,Madrid Hub,83,1.16
+COKE500MLUK,Coke Classic,Madrid Hub,539,1.03
+COCA_SG500,Coca-Cola 500ml,Doha Hub,302,2.81
+COCA_NY001,Coke Classic,Madrid Hub,551,1.58
+CC_JHB500,Coke 0.5L,Tokyo Hub,152,2.34
+COKE001,Coke Classic,Doha Hub,670,1.88
+COCA500,CocaCola Original,Delhi Hub,611,2.05
+COKE_DXB,CocaCola - 500ml,Singapore Hub,222,3.17
+CC_JHB500,CocaCola Original,Doha Hub,222,3.39
+COKE001,Coca-Cola Classic,London Hub,392,2.43
+COCA_SG500,Coca Cola 0.5L,Madrid Hub,635,1.36
+COCA_NY001,Coca-Cola Classic,Madrid Hub,33,1.49
+COKE001,Coca Cola 0.5L,Doha Hub,253,3.47
+CC_JHB500,Coca-Cola 500ml,Tokyo Hub,493,1.82
+CC_JHB500,CocaCola,Delhi Hub,269,3.88
+CC500PAR,CocaCola Original,New York Hub,43,2.74
+COKE_TYO500,Coke Bottle,Tokyo Hub,279,2.49
+COKE500MLUK,CocaCola - 500ml,Tokyo Hub,736,2.03
+COKE001,Coca-Cola Classic,Tokyo Hub,292,2.22
+COKE_TYO500,Coca Cola 0.5L,Johannesburg Hub,582,3.11
+COCA_SG500,Coke 0.5L,New York Hub,274,3.55
+COCA_NY001,CocaCola - 500ml,Doha Hub,248,1.1
+CC500PAR,Coca-Cola Classic,Doha Hub,636,3.5
+COCADELHI,Coke 0.5L,Madrid Hub,602,3.19
+CC500PAR,Coke 0.5L,Dubai Hub,65,1.79
+COKE001,Coke Classic,Dubai Hub,361,3.03
+COKE_TYO500,Coke 0.5L,Dubai Hub,665,3.28
+COCA_NY001,Coca Cola,New York Hub,543,1.25
+COKE001,Coke Bottle,Johannesburg Hub,599,3.62
+COKE500MLUK,CocaCola - 500ml,New York Hub,761,3.27
+COKE_TYO500,Coca-Cola Classic,London Hub,527,2.52
+COCA_SG500,Coca Cola 0.5L,London Hub,551,2.75
+COKE500MLUK,Coca Cola 0.5L,New York Hub,161,3.02
+COCADELHI,Coca Cola 0.5L,Tokyo Hub,696,1.8
+COCA_NY001,Coke Bottle,Johannesburg Hub,528,1.64
+COKE_TYO500,CocaCola,Delhi Hub,305,2.58
+CC_JHB500,Coca Cola 0.5L,Madrid Hub,731,1.38
+COCA500,Coca-Cola Classic,London Hub,456,2.43
+COKE_TYO500,Coca-Cola 500ml,Madrid Hub,719,2.2
+CC500PAR,Coke Bottle,Madrid Hub,722,1.02
+CC_JHB500,Coca Cola 0.5L,Paris Hub,653,3.2
+COCA_SG500,Coca-Cola Classic,Tokyo Hub,539,3.3
+COCADELHI,Coke Bottle,Dubai Hub,600,1.94
+COCA500,CocaCola,Johannesburg Hub,613,3.62
+CC500PAR,Coca-Cola Classic,Delhi Hub,503,1.84
+COKE500MLUK,Coca Cola 0.5L,Paris Hub,154,2.13
+COKE_TYO500,CocaCola,Paris Hub,416,1.42
+COKE_DXB,CocaCola - 500ml,London Hub,618,1.95
+COCA_SG500,Coke Classic,Paris Hub,291,2.32
+COCA500,Coke 0.5L,Johannesburg Hub,657,3.56
+COCA_SG500,Coca-Cola 500ml,Singapore Hub,82,2.77
+CC_JHB500,Coke 0.5L,Dubai Hub,587,3.77
+COKE_TYO500,CocaCola,Tokyo Hub,755,2.45
+CC_JHB500,Coke Classic,New York Hub,169,2.5
+COKE001,Coke 0.5L,Johannesburg Hub,205,1.81
+CC500PAR,CocaCola - 500ml,Tokyo Hub,78,2.74
+COCA_SG500,CocaCola Original,Paris Hub,494,3.44
+COKE001,Coca-Cola Classic,Delhi Hub,190,3.76
+COKE_TYO500,CocaCola - 500ml,Doha Hub,112,1.8
+COKE_DXB,Coke Bottle,New York Hub,329,3.3
+COKE_DXB,Coca-Cola Classic,London Hub,716,3.19
+COKE_DXB,Coca-Cola 500ml,Madrid Hub,512,3.84
+COCADELHI,Coca Cola 0.5L,Tokyo Hub,424,1.89
+CC500PAR,CocaCola,Paris Hub,345,1.11
+COKE500MLUK,Coca Cola,Johannesburg Hub,554,1.87
+COKE_TYO500,CocaCola Original,Delhi Hub,268,1.23
+COCA500,Coca Cola 0.5L,Paris Hub,780,3.56
+COCADELHI,CocaCola,New York Hub,362,2.87
+CC_JHB500,Coca Cola,New York Hub,321,2.41
+COCADELHI,Coca-Cola Classic,Dubai Hub,157,2.42
+COCA500,CocaCola,Dubai Hub,190,1.74
+COCA_NY001,Coke 0.5L,Delhi Hub,173,1.14
+COCA500,Coca-Cola Classic,New York Hub,281,2.42
+COCADELHI,Coke Bottle,Tokyo Hub,599,2.23
+CC500PAR,Coca-Cola Classic,Singapore Hub,779,2.73
+COCADELHI,Coca-Cola 500ml,London Hub,184,2.9
+COCA500,CocaCola - 500ml,Dubai Hub,163,2.05
+CC500PAR,Coca Cola,London Hub,614,1.48
+COKE_DXB,Coke 0.5L,Doha Hub,784,3.72
+COKE500MLUK,Coca Cola 0.5L,Madrid Hub,299,2.78
+COKE_TYO500,Coke Bottle,Tokyo Hub,460,3.64
+COKE001,CocaCola,Madrid Hub,156,2.21
+CC500PAR,CocaCola - 500ml,Doha Hub,450,2.61
+COKE001,Coke Bottle,Delhi Hub,391,3.48
+COKE001,Coca Cola,Delhi Hub,116,2.89
+CC500PAR,Coke Classic,New York Hub,615,2.85
+COCA_SG500,Coke Bottle,Doha Hub,206,1.94
+COCADELHI,Coca Cola 0.5L,Tokyo Hub,213,1.97
+COCA500,Coke Classic,Paris Hub,449,2.4
+COKE_TYO500,Coke Bottle,Paris Hub,31,2.8
+COCA_SG500,Coca Cola,Madrid Hub,87,1.32
+CC500PAR,Coke 0.5L,Dubai Hub,291,2.76
+COCA_NY001,CocaCola - 500ml,Singapore Hub,680,2.68
+COKE500MLUK,Coca Cola 0.5L,Tokyo Hub,618,2.22
+COKE500MLUK,CocaCola - 500ml,Tokyo Hub,644,1.2
+CC_JHB500,Coke Bottle,Johannesburg Hub,602,2.05
+COKE001,Coca-Cola 500ml,New York Hub,448,1.23
+COCADELHI,Coca-Cola Classic,Madrid Hub,502,3.91
+COCA500,Coke Classic,New York Hub,177,3.76
+CC500PAR,CocaCola - 500ml,Tokyo Hub,107,3.35
+COKE500MLUK,CocaCola - 500ml,New York Hub,279,2.75
+COKE_TYO500,Coke 0.5L,London Hub,569,4
+CC500PAR,Coca-Cola 500ml,Tokyo Hub,612,2.18
+COCA_SG500,Coca Cola 0.5L,London Hub,741,2.64
+COCADELHI,Coca Cola,Madrid Hub,419,3.12
+COCADELHI,Coke Bottle,London Hub,279,3.57
+COCA_SG500,Coca-Cola Classic,Dubai Hub,767,2.05
+CC500PAR,CocaCola - 500ml,London Hub,344,1.12
+COCADELHI,CocaCola - 500ml,Madrid Hub,644,2.06
+CC_JHB500,Coca-Cola Classic,Delhi Hub,592,1.79
+CC_JHB500,Coca Cola 0.5L,Delhi Hub,75,1.02
+COCA_NY001,Coca Cola,Doha Hub,31,2.66
+COKE500MLUK,Coca-Cola 500ml,Tokyo Hub,127,3.38
+CC500PAR,Coca-Cola 500ml,Singapore Hub,328,2.24
+COCA500,Coca Cola 0.5L,Dubai Hub,518,2.49
+COCA500,Coca Cola 0.5L,Delhi Hub,296,3.2
+COKE500MLUK,Coca-Cola 500ml,New York Hub,767,3.88
+CC_JHB500,CocaCola,Johannesburg Hub,64,2.38
+COCADELHI,CocaCola,Johannesburg Hub,602,1.06
+COCA_NY001,Coca Cola,Delhi Hub,489,2.48
+COKE500MLUK,Coca Cola,Doha Hub,754,2.15
+COCA_NY001,Coca-Cola Classic,Doha Hub,236,3.34
+CC500PAR,Coke 0.5L,Dubai Hub,231,2.23
+COCA_SG500,Coke Classic,Singapore Hub,637,3.5
+COKE001,Coca-Cola Classic,Tokyo Hub,188,3.11
+COKE_DXB,Coca Cola 0.5L,Doha Hub,337,3.21
+COCA_SG500,Coke 0.5L,New York Hub,450,3.24
+COCA500,Coca-Cola 500ml,Singapore Hub,531,1.3
+CC_JHB500,Coca-Cola Classic,Johannesburg Hub,274,2.7
+CC500PAR,Coke Bottle,Delhi Hub,272,1.64
+COCADELHI,Coca-Cola 500ml,Paris Hub,658,3.22
+CC500PAR,CocaCola - 500ml,Delhi Hub,130,2.15
+COCA_NY001,Coca-Cola 500ml,Singapore Hub,514,2.67
+COKE001,Coca-Cola 500ml,Dubai Hub,492,3.82
+CC500PAR,CocaCola,Madrid Hub,748,1.42
+CC500PAR,CocaCola Original,Tokyo Hub,446,1.6
+COKE_DXB,Coca Cola 0.5L,Johannesburg Hub,52,3.14
+COCA500,Coke Bottle,Doha Hub,555,2.91
+COKE_DXB,CocaCola - 500ml,Dubai Hub,586,1.2
+COCA_NY001,CocaCola,Tokyo Hub,175,1.28
+COKE_TYO500,Coke 0.5L,Paris Hub,523,1.41
+COKE_TYO500,CocaCola,Doha Hub,421,2.38
+COCA_SG500,CocaCola - 500ml,New York Hub,288,2.65
+COCA_SG500,Coke Bottle,London Hub,252,2.38
+COKE_DXB,Coca-Cola Classic,Delhi Hub,271,2.68
+COCA500,Coca Cola,Dubai Hub,31,3.61
+COCA_NY001,Coca-Cola 500ml,Johannesburg Hub,159,1.01
+COCADELHI,Coke Bottle,Singapore Hub,590,1.85
+COKE_TYO500,Coke Classic,Delhi Hub,48,1.18
+COKE500MLUK,CocaCola Original,Paris Hub,178,2.86
+COKE_DXB,CocaCola,Singapore Hub,438,2.48
+COCA_NY001,CocaCola - 500ml,Madrid Hub,61,1.21
+COCADELHI,Coke Classic,Tokyo Hub,624,1.83
+COKE_DXB,CocaCola Original,Dubai Hub,601,2.47
+COKE500MLUK,Coke Classic,New York Hub,661,3.05
+COCA_NY001,Coca Cola,New York Hub,592,2.45
+COCA_SG500,Coca-Cola Classic,Tokyo Hub,469,3.36
+COKE_DXB,Coca Cola 0.5L,Dubai Hub,664,3.41
+COKE500MLUK,Coca-Cola 500ml,Dubai Hub,355,3.75
+COKE_DXB,Coca-Cola 500ml,Dubai Hub,561,3.19
+COCA_SG500,Coke Classic,Madrid Hub,58,3.44
+CC500PAR,CocaCola - 500ml,Delhi Hub,713,2.89
+COCA500,Coca Cola 0.5L,Tokyo Hub,222,2.33
+COCA_NY001,CocaCola - 500ml,Delhi Hub,280,3.41
+COCA500,Coca Cola,Tokyo Hub,142,3.17
+COKE_TYO500,Coke Classic,New York Hub,427,1.78
+CC_JHB500,CocaCola - 500ml,Dubai Hub,573,1.32
+COCADELHI,CocaCola,New York Hub,523,3.96
+COCADELHI,CocaCola Original,Singapore Hub,63,3.97
+COKE500MLUK,Coke 0.5L,London Hub,338,3.37
+CC_JHB500,CocaCola Original,London Hub,691,2.79
+COCA_NY001,Coca-Cola 500ml,New York Hub,122,3.91
+CC_JHB500,Coke Classic,Paris Hub,186,3.05
+CC_JHB500,CocaCola - 500ml,Paris Hub,42,3.63
+CC_JHB500,Coke 0.5L,Tokyo Hub,616,3.03
+COKE_DXB,Coca-Cola Classic,Johannesburg Hub,55,3.54
+COKE001,Coke Classic,Delhi Hub,180,3.69
+COKE001,CocaCola,Tokyo Hub,550,2.89
+COCA_SG500,Coke 0.5L,Paris Hub,428,1.13
+COCA_SG500,Coke Classic,Singapore Hub,560,3.95
+COKE001,CocaCola - 500ml,Singapore Hub,174,3.15
+COKE001,Coca Cola,Doha Hub,233,2.7
+COKE001,Coke Bottle,Tokyo Hub,584,1.9
+CC_JHB500,Coca Cola,Doha Hub,485,2.64
+COKE001,Coke Bottle,Paris Hub,767,1.78
+COKE_DXB,Coca-Cola Classic,Paris Hub,486,2.89
+COKE_DXB,Coca Cola,Delhi Hub,111,2.9
+COKE_TYO500,CocaCola - 500ml,New York Hub,629,1.76
+COKE500MLUK,Coca-Cola Classic,London Hub,494,2.67
+COKE_TYO500,Coca Cola 0.5L,Paris Hub,277,3.29
+COCA_NY001,Coca-Cola 500ml,Madrid Hub,656,2.2
+COKE500MLUK,Coke Bottle,Paris Hub,241,1.88
+CC_JHB500,CocaCola,Tokyo Hub,569,1.02
+COCA_SG500,Coke 0.5L,Madrid Hub,115,1.71
+COCA_SG500,Coca Cola 0.5L,Tokyo Hub,494,3.93
+COCA500,Coke 0.5L,New York Hub,409,3.8
+COKE_DXB,Coke Bottle,New York Hub,379,1.71
+CC500PAR,Coke Classic,Madrid Hub,494,2.62
+CC500PAR,CocaCola,Singapore Hub,733,2.2
+COKE500MLUK,Coke Bottle,Singapore Hub,462,1.89
+COKE_DXB,CocaCola Original,Doha Hub,403,1.19
+COKE_DXB,CocaCola Original,Dubai Hub,550,2.04
+COKE001,Coke Classic,Delhi Hub,654,2.16
+COCA500,Coca-Cola 500ml,Dubai Hub,94,1.93
+COKE500MLUK,Coca-Cola 500ml,Tokyo Hub,278,2.7
+COKE001,CocaCola Original,Delhi Hub,761,1.14
+COCA_NY001,Coca-Cola 500ml,Delhi Hub,600,1.33
+COCA500,Coca-Cola 500ml,Paris Hub,300,1.89
+COCA_SG500,Coke Classic,Dubai Hub,84,3.96
+COKE001,CocaCola Original,Madrid Hub,41,3.77
+COKE001,Coca Cola,Dubai Hub,87,3.41
+COCADELHI,Coca Cola,Tokyo Hub,155,1.1
+COKE500MLUK,Coke Bottle,Paris Hub,567,3.78
+COKE500MLUK,Coke 0.5L,Paris Hub,136,2.01
+COCA_NY001,Coca Cola,Delhi Hub,650,3.39
+COCA500,Coca Cola 0.5L,Dubai Hub,256,1.81
+COKE_DXB,Coke Classic,Doha Hub,448,3.83
+COKE_TYO500,Coca-Cola 500ml,Paris Hub,372,2.22
+COCA_NY001,Coke Bottle,Delhi Hub,231,2.67
+COCA_NY001,Coca Cola,Madrid Hub,297,1.13
+CC_JHB500,CocaCola - 500ml,London Hub,507,3.4
+COKE_DXB,CocaCola Original,Delhi Hub,575,3.57
+CC500PAR,CocaCola,New York Hub,511,1.47
+COCA_SG500,Coke Bottle,London Hub,62,1.46
+COCA_NY001,Coke Bottle,Singapore Hub,407,1.68
+COCA500,Coke Classic,New York Hub,115,2.2
+COKE001,Coca-Cola Classic,New York Hub,501,2.68
+COKE_TYO500,Coca Cola,Paris Hub,207,1.42
+COKE500MLUK,Coca Cola 0.5L,New York Hub,481,1.96
+COCADELHI,Coke Classic,Singapore Hub,123,2.98
+COCA500,CocaCola,Paris Hub,608,1.6
+COKE001,Coke Bottle,Delhi Hub,631,1.45
+COCADELHI,Coca Cola,London Hub,108,3.39
+COCADELHI,CocaCola,New York Hub,485,2.04
+COKE001,Coke 0.5L,Doha Hub,36,2.77
+COCA500,CocaCola,Madrid Hub,345,3.65
+CC_JHB500,CocaCola - 500ml,Paris Hub,210,3.85
+COKE500MLUK,Coke Bottle,Delhi Hub,791,2.46
+COKE001,Coca-Cola 500ml,Madrid Hub,680,3.6
+COKE001,Coca-Cola 500ml,Singapore Hub,720,1.6
+COCA500,Coca Cola,Dubai Hub,273,3.04
+CC500PAR,Coke 0.5L,Delhi Hub,661,2.36
+COKE_TYO500,CocaCola Original,Johannesburg Hub,619,2.72
+COCA_SG500,Coca Cola,London Hub,66,3.96
+COCA_NY001,Coke 0.5L,Madrid Hub,522,1.88
+COKE500MLUK,CocaCola - 500ml,London Hub,126,1.53
+COCADELHI,Coca Cola,Singapore Hub,745,2.29
+COCADELHI,Coke Classic,Singapore Hub,562,3.07
+COCA_NY001,Coca Cola,Doha Hub,598,3.53
+CC500PAR,Coca Cola,New York Hub,59,3.34
+COCA_SG500,Coke Classic,Paris Hub,745,1.62
+COCA_NY001,Coca-Cola Classic,Johannesburg Hub,324,1.17
+CC500PAR,Coca Cola 0.5L,Tokyo Hub,627,2.39
+COCA_NY001,Coke Bottle,Doha Hub,211,3.63
+COCA_NY001,Coke Bottle,Tokyo Hub,473,3.72
+COCA_NY001,Coke Bottle,New York Hub,786,2.58
+COKE_TYO500,Coca-Cola Classic,Delhi Hub,220,3
+COKE_DXB,Coke 0.5L,Madrid Hub,644,3.97
+COKE001,Coca-Cola 500ml,Singapore Hub,135,1.96
+COKE001,Coca-Cola 500ml,Dubai Hub,377,3.87
+COCA_SG500,CocaCola,Dubai Hub,766,2.7
+COCA_SG500,Coke Bottle,Doha Hub,464,3.85
+COKE_TYO500,Coke 0.5L,New York Hub,506,3.81
+COCA_SG500,Coca Cola 0.5L,Doha Hub,396,1.8
+COCA_SG500,CocaCola,Dubai Hub,480,1.38
+COCA_NY001,Coke Bottle,London Hub,290,2.06
+COCADELHI,Coca-Cola Classic,Tokyo Hub,739,2.51
+COKE_TYO500,CocaCola,Dubai Hub,197,3.06
+COKE_DXB,Coca-Cola 500ml,Doha Hub,311,1.81
+COCA_SG500,CocaCola,Dubai Hub,585,1.36
+COCA500,Coca-Cola Classic,Madrid Hub,727,3.21
+CC500PAR,CocaCola - 500ml,Johannesburg Hub,388,3.99
+COCA_NY001,CocaCola - 500ml,Delhi Hub,734,3.64
+CC500PAR,CocaCola Original,London Hub,158,3.11
+COCADELHI,Coca Cola,New York Hub,378,2.26
+COKE500MLUK,Coke Classic,Doha Hub,257,1.75
+COCADELHI,Coke 0.5L,Madrid Hub,761,1.14
+COCA_SG500,Coke Classic,Tokyo Hub,106,3.75
+COCA_SG500,Coca-Cola 500ml,Madrid Hub,532,2.44
+COKE500MLUK,CocaCola Original,Paris Hub,66,1.89
+COCA500,Coca Cola 0.5L,London Hub,565,2.54
+COCA_SG500,Coca-Cola Classic,Paris Hub,537,3.39
+COKE500MLUK,Coke Classic,New York Hub,284,3.73
+COCA500,CocaCola Original,Singapore Hub,570,1.97
+CC500PAR,Coke 0.5L,Doha Hub,267,2.78
+CC500PAR,Coca-Cola 500ml,Tokyo Hub,549,2.22
+COCA_NY001,Coca Cola,Delhi Hub,460,2.74
+CC500PAR,CocaCola Original,London Hub,109,1.78
+COCADELHI,Coca Cola,Dubai Hub,281,3.53
+CC_JHB500,CocaCola Original,Johannesburg Hub,598,1.4
+COCA_NY001,CocaCola - 500ml,Madrid Hub,630,2.5
+COKE001,Coke 0.5L,Doha Hub,168,3.43
+CC_JHB500,CocaCola Original,Madrid Hub,567,3.44
+COCA500,Coca-Cola 500ml,Delhi Hub,422,1.94
+COKE_DXB,Coca Cola 0.5L,Singapore Hub,501,1.23
+CC_JHB500,Coca-Cola 500ml,Paris Hub,312,3
+COCA500,Coca-Cola Classic,London Hub,633,2.57
+COCA_SG500,Coca-Cola 500ml,Madrid Hub,657,3.48
+COCA_SG500,Coke Bottle,London Hub,712,1.34
+COKE500MLUK,Coke Bottle,Dubai Hub,56,3.74
+COKE_TYO500,Coke Classic,Paris Hub,131,3.53
+COKE_TYO500,Coca Cola 0.5L,Paris Hub,402,1.7
+CC_JHB500,Coke 0.5L,Tokyo Hub,412,3
+COCA500,CocaCola Original,New York Hub,746,3.87
+CC_JHB500,Coca Cola 0.5L,Tokyo Hub,782,1.8
+COKE001,Coke Classic,Johannesburg Hub,703,2.91
+CC500PAR,CocaCola,London Hub,644,2.1
+CC_JHB500,CocaCola,Tokyo Hub,124,2.39
+COCA500,Coca Cola,Tokyo Hub,504,1.76
+COCA_SG500,CocaCola,Doha Hub,76,3.68
+COCA_NY001,CocaCola,Dubai Hub,484,1.11
+COKE001,Coke 0.5L,Paris Hub,153,3.41
+COCA500,CocaCola,Johannesburg Hub,571,3.71
+COKE_DXB,Coke 0.5L,Paris Hub,472,3.69
+COCADELHI,Coca Cola,Delhi Hub,165,1.23
+COKE_DXB,Coke Classic,Johannesburg Hub,290,1.93
+COCA_NY001,Coke Classic,Dubai Hub,265,1.16
+COKE500MLUK,Coke Bottle,Tokyo Hub,156,2.69
+COKE_TYO500,CocaCola,Delhi Hub,373,2.61
+CC_JHB500,Coke Classic,Madrid Hub,727,1.7
+CC_JHB500,CocaCola Original,Tokyo Hub,355,3.59
+COKE001,Coca-Cola 500ml,Paris Hub,105,2.36
+COKE_TYO500,Coca Cola 0.5L,Doha Hub,564,2.79
+COCA_SG500,Coke Classic,Johannesburg Hub,33,3.81
+COKE001,CocaCola - 500ml,New York Hub,684,3.68
+COCA_NY001,CocaCola Original,Johannesburg Hub,464,2.99
+COKE_TYO500,Coke 0.5L,Singapore Hub,713,1.13
+COKE_DXB,CocaCola Original,Doha Hub,620,3.93
+COCA_SG500,CocaCola,Singapore Hub,399,2.19
+COCA_NY001,CocaCola - 500ml,Madrid Hub,631,3.34
+COKE001,Coca Cola,Tokyo Hub,364,2.36
+CC500PAR,Coca-Cola Classic,Singapore Hub,230,2.91
+COCADELHI,CocaCola,Paris Hub,352,1.92
+COKE001,CocaCola - 500ml,Dubai Hub,83,1.81
+COCA500,Coke 0.5L,Doha Hub,485,1.36
+COKE500MLUK,Coke Bottle,Madrid Hub,274,1.38
+COCADELHI,Coca-Cola Classic,Dubai Hub,261,1.86
+COKE_DXB,Coke Classic,London Hub,363,1.2
+COCA500,CocaCola - 500ml,New York Hub,582,1.81
+CC500PAR,Coca-Cola Classic,Singapore Hub,614,2.89
+COCA_SG500,CocaCola - 500ml,Paris Hub,157,3.95
+COCADELHI,Coke Bottle,Johannesburg Hub,382,3.8
+COCA_NY001,Coca Cola,Singapore Hub,647,3.43
+COKE_DXB,CocaCola - 500ml,New York Hub,231,3
+COCA_NY001,CocaCola - 500ml,Doha Hub,749,2.23
+COCA500,Coca Cola,New York Hub,155,3.8
+COKE500MLUK,Coke 0.5L,Johannesburg Hub,388,1.57
+CC_JHB500,Coke Classic,Johannesburg Hub,624,1.37
+COCADELHI,Coca Cola,Doha Hub,533,3.83
+COKE_DXB,Coca Cola 0.5L,Paris Hub,214,1.28
+COCA_NY001,CocaCola Original,London Hub,342,1.39
+COKE001,Coke Bottle,Paris Hub,200,2.91
+COCA_SG500,CocaCola Original,London Hub,454,2.56
+COKE001,Coca-Cola Classic,New York Hub,85,2.87
+CC500PAR,CocaCola - 500ml,Madrid Hub,617,3.45
+COKE500MLUK,Coke 0.5L,Tokyo Hub,436,3.82
+COKE500MLUK,CocaCola Original,Singapore Hub,675,1.65
+CC_JHB500,CocaCola - 500ml,New York Hub,128,1.06
+CC_JHB500,Coca-Cola 500ml,Madrid Hub,655,2.41
+COCADELHI,CocaCola,Delhi Hub,326,3.99
+COKE001,Coke Classic,Dubai Hub,460,2.56
+COKE_TYO500,CocaCola,Johannesburg Hub,354,3.4
+COKE_TYO500,Coke 0.5L,Doha Hub,285,3.54
+COCADELHI,Coca Cola,Madrid Hub,153,2.59
+COKE001,Coca-Cola 500ml,Johannesburg Hub,212,1.93
+COCA_SG500,Coca Cola,Paris Hub,238,3.39
+COCA500,Coke Bottle,Dubai Hub,226,2.57
+COCA500,Coca Cola,Delhi Hub,204,3.91
+COKE001,Coca Cola,New York Hub,256,2.05
+COCA500,Coke Classic,Singapore Hub,222,2.51
+COKE_DXB,CocaCola Original,Doha Hub,798,3.7
+COKE_DXB,CocaCola Original,London Hub,175,1.54
+COKE_DXB,CocaCola Original,Doha Hub,691,3.91
+COCA_SG500,CocaCola Original,Dubai Hub,475,3.67
+COCA_SG500,CocaCola,Doha Hub,652,3.92
+CC500PAR,CocaCola,Dubai Hub,747,2.42
+COKE500MLUK,Coca Cola,Paris Hub,669,2.96
+COCA_NY001,Coke Classic,Delhi Hub,377,3.73
+COKE_DXB,CocaCola,Paris Hub,503,1.44
+COCA_SG500,Coca-Cola Classic,Madrid Hub,657,2.31
+CC500PAR,Coca-Cola 500ml,Doha Hub,779,3.49
+COKE_DXB,Coca-Cola Classic,Paris Hub,312,1.92
+COCA_SG500,Coke 0.5L,Paris Hub,270,3.1
+COCA500,Coca-Cola 500ml,Delhi Hub,322,1.11
+CC500PAR,Coca-Cola Classic,Dubai Hub,584,1.67
+COKE_TYO500,CocaCola - 500ml,Tokyo Hub,406,1.22
+COKE500MLUK,Coca-Cola 500ml,Dubai Hub,137,3.74
+CC500PAR,Coca-Cola 500ml,Paris Hub,442,3.7
+COCA_NY001,Coca-Cola 500ml,Johannesburg Hub,49,1.76
+COCA_NY001,CocaCola - 500ml,Tokyo Hub,306,2.72
+COCA500,CocaCola,Paris Hub,319,3.42
+COKE_TYO500,Coke Classic,Paris Hub,137,2.72
+COKE001,Coca Cola,London Hub,310,2.16
+COCADELHI,CocaCola - 500ml,Paris Hub,761,3.18
+COCA_NY001,Coca-Cola Classic,New York Hub,704,2.21
+COKE_TYO500,Coke Bottle,Singapore Hub,339,1.76
+COKE001,Coke Bottle,New York Hub,342,1.21
+COKE001,Coca Cola,Delhi Hub,239,2.94
+COCA_NY001,Coke 0.5L,Paris Hub,727,3.84
+COCA500,Coke Bottle,Madrid Hub,102,1.96
+COCA_NY001,Coke Bottle,Johannesburg Hub,187,2.63
+COKE_DXB,Coke 0.5L,Johannesburg Hub,99,2.38
+CC_JHB500,Coke Bottle,Paris Hub,579,1.13
+COCA500,CocaCola Original,Johannesburg Hub,581,2.24
+COCA_NY001,Coke 0.5L,Johannesburg Hub,246,3.03
+COCA_SG500,CocaCola Original,Singapore Hub,525,3.93
+CC_JHB500,Coca Cola,Dubai Hub,35,1.97
+COKE001,Coca-Cola Classic,Madrid Hub,634,2.45
+CC_JHB500,CocaCola - 500ml,Johannesburg Hub,650,1.58
+CC_JHB500,Coca Cola 0.5L,Doha Hub,361,1.85
+CC500PAR,Coca-Cola 500ml,Singapore Hub,689,1.76
+COKE001,Coke Classic,London Hub,352,2.02
+COCADELHI,Coca-Cola Classic,Tokyo Hub,673,3.98
+COCADELHI,CocaCola - 500ml,New York Hub,641,1.27
+COCA_NY001,Coca Cola 0.5L,Delhi Hub,269,3.1
+COCA500,CocaCola - 500ml,Singapore Hub,602,1.31
+COCA500,Coca Cola,Dubai Hub,744,3.55
+COKE_TYO500,Coca-Cola 500ml,Delhi Hub,504,3.87
+COKE_DXB,CocaCola - 500ml,Paris Hub,433,1.38
+COKE_TYO500,Coke Classic,Singapore Hub,730,3.05
+COKE500MLUK,Coca Cola,London Hub,567,3.61
+CC500PAR,Coca-Cola Classic,New York Hub,156,3.88
+COKE500MLUK,Coca-Cola Classic,Dubai Hub,611,1.68
+CC500PAR,CocaCola Original,Delhi Hub,473,1.39
+COCA_NY001,Coke Classic,London Hub,739,1.38
+COKE_TYO500,Coca-Cola 500ml,London Hub,376,2.05
+CC500PAR,CocaCola - 500ml,Madrid Hub,293,2.85
+CC_JHB500,CocaCola Original,Paris Hub,291,3.18
+COKE500MLUK,Coca-Cola Classic,London Hub,44,2.61
+CC500PAR,CocaCola - 500ml,Tokyo Hub,725,1.18
+COKE500MLUK,CocaCola - 500ml,Singapore Hub,283,3.57
+COKE_DXB,CocaCola - 500ml,Dubai Hub,669,1.52
+COCA500,Coke Classic,London Hub,684,3.01
+COKE_DXB,Coke Bottle,Johannesburg Hub,617,1.91
+COCA_NY001,Coke Bottle,London Hub,524,3.85
+COCADELHI,CocaCola Original,Singapore Hub,44,2.48
+COCA_NY001,CocaCola Original,New York Hub,769,1.06
+COKE500MLUK,Coke Bottle,London Hub,335,2.88
+COKE_DXB,Coke 0.5L,Madrid Hub,165,3.8
+CC_JHB500,Coca-Cola Classic,London Hub,356,3.18
+CC500PAR,Coca Cola 0.5L,London Hub,153,3.16
+COKE_TYO500,Coca-Cola Classic,Dubai Hub,32,1.99
+COKE001,Coca-Cola Classic,New York Hub,102,3.29
+COKE_DXB,CocaCola,Doha Hub,324,2.34
+CC_JHB500,Coca Cola 0.5L,Dubai Hub,744,1.29
+COKE_TYO500,Coke Bottle,Madrid Hub,109,1.82
+COKE001,Coca-Cola 500ml,Doha Hub,425,2.72
+COKE500MLUK,Coca-Cola 500ml,New York Hub,778,3.45
+CC_JHB500,Coke 0.5L,Johannesburg Hub,147,3.23
+COCA_SG500,CocaCola,Johannesburg Hub,233,1.9
+COCA500,CocaCola - 500ml,Doha Hub,91,1.26
+COKE001,Coke 0.5L,New York Hub,73,2.44
+COCA_NY001,Coca Cola,Dubai Hub,574,2.02
+COKE500MLUK,Coca Cola 0.5L,Paris Hub,119,1.86
+COCA_NY001,CocaCola - 500ml,Dubai Hub,463,1.94
+COKE001,CocaCola,Tokyo Hub,144,2.98
+COCA_NY001,CocaCola Original,Dubai Hub,627,2.81
+COCA_SG500,Coca-Cola Classic,Doha Hub,211,2.59
+COKE_TYO500,CocaCola - 500ml,Delhi Hub,444,2.15
+COKE500MLUK,CocaCola Original,Singapore Hub,767,2.14
+COKE001,Coca Cola,Singapore Hub,468,1.32
+COKE_TYO500,Coca Cola,Dubai Hub,502,1.89
+COKE_DXB,Coca Cola,New York Hub,255,2.63
+CC_JHB500,Coca-Cola Classic,Doha Hub,228,3
+COCADELHI,Coca-Cola 500ml,Delhi Hub,132,3.67
+COKE_TYO500,Coca Cola,Paris Hub,604,2.7
+COKE500MLUK,Coke 0.5L,Paris Hub,92,3.67
+COKE_TYO500,Coke Classic,Dubai Hub,632,1.35
+COKE001,Coke 0.5L,Tokyo Hub,138,2.13
+COCA500,Coke Bottle,Singapore Hub,454,2.6
+COKE001,Coke Bottle,Doha Hub,235,1.12
+CC500PAR,CocaCola - 500ml,New York Hub,532,1.86
+COCA_SG500,Coke 0.5L,Singapore Hub,546,1.68
+COKE_DXB,CocaCola - 500ml,Singapore Hub,349,3.7
+COKE_DXB,Coca Cola 0.5L,London Hub,680,2.02
+COKE_DXB,Coke Bottle,Dubai Hub,210,3.96
+COKE_TYO500,Coca Cola,Tokyo Hub,350,3.45
+COKE001,Coke Bottle,Doha Hub,521,3.47
+COKE001,Coke Classic,Doha Hub,630,3.36
+COKE500MLUK,Coca Cola,Dubai Hub,648,1.21
+COCA_NY001,Coca-Cola Classic,Delhi Hub,53,3.77
+COCA500,Coca-Cola 500ml,Madrid Hub,202,3.21
+COCADELHI,CocaCola - 500ml,New York Hub,514,2.05
+COKE001,CocaCola Original,Johannesburg Hub,773,3.9
+CC500PAR,Coke Bottle,Doha Hub,652,2
+COCADELHI,Coca-Cola 500ml,Singapore Hub,140,2.98
+CC_JHB500,Coca Cola 0.5L,Singapore Hub,718,3.23
+CC500PAR,Coca Cola,Tokyo Hub,301,2.18
+COKE_DXB,Coke 0.5L,Singapore Hub,392,1.24
+CC_JHB500,Coke Bottle,Dubai Hub,211,1.14
+COKE500MLUK,Coke 0.5L,Paris Hub,272,2.57
+COKE_TYO500,CocaCola,Doha Hub,691,3.21
+CC500PAR,Coca Cola 0.5L,New York Hub,639,2.22
+COCA_NY001,Coke Classic,Doha Hub,119,1.24
+COCADELHI,Coca Cola,Doha Hub,215,2.35
+COKE_DXB,CocaCola - 500ml,Paris Hub,49,1.08
+COCADELHI,Coke Classic,Delhi Hub,293,2.75
+COCA500,CocaCola,Johannesburg Hub,151,2.19
+COKE001,CocaCola,Paris Hub,180,1.84
+COCA500,Coca Cola 0.5L,Tokyo Hub,589,2.91
+COKE_DXB,Coke 0.5L,Dubai Hub,588,3.55
+COCA_NY001,Coke Bottle,Singapore Hub,523,1.64
+COCA500,Coke Bottle,New York Hub,307,2.72
+CC500PAR,CocaCola Original,Paris Hub,437,2.5
+COCA_NY001,Coke Classic,New York Hub,394,1.68
+COKE_TYO500,Coke Classic,New York Hub,649,3.49
+CC500PAR,Coca Cola 0.5L,Tokyo Hub,603,2.55
+COKE_DXB,Coca Cola,Singapore Hub,187,1.74
+COCA500,Coke Classic,London Hub,742,2.29
+CC500PAR,Coca-Cola 500ml,Madrid Hub,270,1.42
+COCA_NY001,CocaCola,London Hub,45,1.62
+COCADELHI,Coke Bottle,Singapore Hub,737,1.47
+COKE_TYO500,CocaCola Original,Johannesburg Hub,333,1.52
+COKE500MLUK,Coca Cola,Johannesburg Hub,750,3.92
+CC_JHB500,CocaCola Original,New York Hub,333,1.86
+COCA500,Coke Bottle,Dubai Hub,97,3.01
+COKE001,Coca-Cola Classic,Singapore Hub,259,1.11
+COKE001,Coke 0.5L,Tokyo Hub,63,2.33
+COCA_SG500,CocaCola - 500ml,Doha Hub,219,1.19
+CC500PAR,Coca-Cola Classic,Doha Hub,203,3.99
+COCADELHI,Coke 0.5L,Doha Hub,527,1.57
+COCA_NY001,CocaCola Original,Paris Hub,286,2.52
+COCA500,CocaCola - 500ml,Doha Hub,444,3.58
+COKE001,CocaCola - 500ml,New York Hub,732,1.8
+COCA_NY001,Coca-Cola Classic,Singapore Hub,460,2.95
+CC500PAR,Coke Bottle,Johannesburg Hub,489,3.91
+COKE_DXB,CocaCola - 500ml,Madrid Hub,253,2.69
+CC_JHB500,Coca Cola,Dubai Hub,132,3.7
+COCA_SG500,Coca-Cola 500ml,New York Hub,413,1.19
+COKE_TYO500,CocaCola Original,New York Hub,84,3.41
+COCADELHI,Coke Classic,Dubai Hub,600,1.28
+COKE500MLUK,Coca-Cola Classic,Doha Hub,211,1.73
+COCADELHI,CocaCola - 500ml,Madrid Hub,255,3.66
+COKE_DXB,Coke 0.5L,Doha Hub,328,3.45
+COCA_NY001,Coke 0.5L,Johannesburg Hub,118,1.56
+COCADELHI,Coca-Cola Classic,Dubai Hub,589,1.51
+COKE500MLUK,Coca Cola 0.5L,Dubai Hub,794,1.62
+CC500PAR,CocaCola - 500ml,Paris Hub,475,2.09
+COCA_NY001,CocaCola Original,New York Hub,726,1.83
+COCA_NY001,Coke Classic,New York Hub,691,2.61
+COKE_TYO500,Coca Cola,Paris Hub,562,1.87
+COKE500MLUK,Coca-Cola 500ml,Paris Hub,149,3.2
+COCA500,CocaCola - 500ml,Delhi Hub,100,1.13
+COCA500,Coca-Cola Classic,Madrid Hub,689,3.62
+COCADELHI,Coca-Cola 500ml,Doha Hub,116,2.08
+COKE500MLUK,Coke Bottle,New York Hub,738,3.92
+CC500PAR,Coca-Cola 500ml,Johannesburg Hub,133,2.91
+COKE_TYO500,Coke 0.5L,Madrid Hub,411,2.59
+CC_JHB500,Coca Cola 0.5L,Madrid Hub,121,3.37
+COKE001,CocaCola,New York Hub,478,2.08
+COKE_TYO500,Coke 0.5L,Doha Hub,719,2.14
+COCA_SG500,CocaCola,Doha Hub,690,1.07
+COKE_DXB,CocaCola,Tokyo Hub,145,1.69
+COCA500,Coca Cola,New York Hub,737,2.17
+COKE_DXB,CocaCola,Tokyo Hub,421,2.66
+COKE_TYO500,Coca Cola 0.5L,Doha Hub,467,1.59
+COKE_DXB,Coke 0.5L,Madrid Hub,507,2.04
+COKE_TYO500,CocaCola Original,Doha Hub,763,1.2
+CC500PAR,Coke Bottle,Doha Hub,78,3.96
+CC_JHB500,Coca Cola,Singapore Hub,363,2.4
+COCADELHI,CocaCola,Dubai Hub,213,1.79
+CC500PAR,CocaCola,Delhi Hub,681,3.02
+COKE_DXB,Coca Cola 0.5L,Doha Hub,728,3.89
+COCADELHI,Coke 0.5L,Johannesburg Hub,405,3.9
+COKE001,CocaCola Original,Dubai Hub,647,3.96
+CC_JHB500,Coke 0.5L,Doha Hub,97,3.7
+COCA_SG500,Coke 0.5L,New York Hub,431,1.78
+COCA_SG500,Coca-Cola 500ml,Tokyo Hub,238,3.14
+COKE001,CocaCola Original,Singapore Hub,331,3.08
+COCA_NY001,Coca Cola 0.5L,New York Hub,715,3.19
+COCADELHI,Coca Cola,Singapore Hub,757,3.59
+COCA_NY001,CocaCola,Madrid Hub,791,3.03
+CC_JHB500,CocaCola,London Hub,665,3.02
+CC_JHB500,Coca-Cola Classic,Singapore Hub,254,1.87
+COKE_TYO500,Coca-Cola Classic,New York Hub,592,2.11
+COCA_NY001,Coca-Cola Classic,Madrid Hub,243,2.19
+CC_JHB500,Coca Cola,Paris Hub,629,2.52
+COCA500,Coke Bottle,Tokyo Hub,318,2.04
+COCA500,Coke 0.5L,Dubai Hub,487,1.78
+COKE_TYO500,Coke Classic,Singapore Hub,591,1.71
+COCA500,Coca-Cola 500ml,Paris Hub,755,3.15
+COCADELHI,CocaCola Original,New York Hub,256,2.83
+COKE_TYO500,Coke Classic,Madrid Hub,684,1.68
+CC_JHB500,Coke Classic,Dubai Hub,539,1.42
+COCADELHI,Coca Cola,New York Hub,592,2.28
+COCADELHI,Coke 0.5L,Johannesburg Hub,254,2.97
+COKE_TYO500,Coca Cola,Johannesburg Hub,354,3.16
+COKE_TYO500,Coke Bottle,Doha Hub,705,3.21
+COCADELHI,Coca Cola 0.5L,New York Hub,212,3.37
+COCA_SG500,Coke Bottle,Tokyo Hub,456,3.48
+CC_JHB500,CocaCola - 500ml,London Hub,101,3.71
+COKE_DXB,Coca-Cola Classic,Paris Hub,758,2.77
+COCA_SG500,Coke Classic,Madrid Hub,445,3.21
+COCA_NY001,Coca-Cola Classic,New York Hub,107,1.15
+COKE_DXB,Coca Cola,Doha Hub,218,3.52
+CC500PAR,CocaCola - 500ml,Delhi Hub,636,1.28
+COKE001,Coke 0.5L,Delhi Hub,588,2.43
+COKE_DXB,Coca-Cola 500ml,New York Hub,273,2.46
+COCADELHI,CocaCola,Dubai Hub,321,1.88
+COCA_NY001,CocaCola Original,New York Hub,391,2.29
+COCA500,Coca Cola,Dubai Hub,77,2.33
+COCA500,Coca Cola 0.5L,London Hub,512,1.62
+CC_JHB500,Coca Cola,Doha Hub,50,3.49
+COKE500MLUK,CocaCola Original,Delhi Hub,518,1.2
+CC_JHB500,Coke Classic,Paris Hub,464,3.38
+COCA_NY001,Coke 0.5L,Doha Hub,50,2.46
+COCA500,Coca Cola,London Hub,548,1.4
+COKE_TYO500,Coke Classic,Delhi Hub,672,3.09
+COKE500MLUK,Coke 0.5L,New York Hub,672,2.27
+COKE500MLUK,CocaCola Original,Tokyo Hub,674,3.78
+COCA_NY001,Coke Classic,London Hub,717,1.11
+COKE_DXB,Coca-Cola 500ml,Tokyo Hub,239,1.36
+COKE001,Coca Cola,Dubai Hub,716,2.28
+COCA500,Coke Bottle,Paris Hub,524,2.92
+COCA_NY001,Coke 0.5L,Johannesburg Hub,224,1.04
+COCA_SG500,Coca-Cola Classic,Dubai Hub,728,3.97
+COCADELHI,Coca Cola,London Hub,329,3.94
+COCA_SG500,Coca-Cola Classic,Dubai Hub,689,1.96
+COCADELHI,Coca Cola 0.5L,Tokyo Hub,516,2.34
+COKE001,Coke Classic,New York Hub,482,2.39
+COCADELHI,Coca Cola,Tokyo Hub,335,1.09
+COCA_SG500,CocaCola Original,Tokyo Hub,510,2.17
+COCA_SG500,CocaCola Original,Delhi Hub,685,3.16
+CC500PAR,CocaCola,New York Hub,668,2.17
+COCADELHI,Coca Cola,Dubai Hub,475,1.24
+COKE500MLUK,CocaCola - 500ml,Madrid Hub,259,3.7
+COCADELHI,CocaCola - 500ml,Paris Hub,328,2.09
+COKE_TYO500,Coca Cola 0.5L,London Hub,86,1.08
+COCA_SG500,Coca-Cola 500ml,New York Hub,714,1.22
+COKE500MLUK,Coke 0.5L,London Hub,428,2.24
+COKE001,Coca-Cola Classic,Madrid Hub,689,3.95
+COCADELHI,Coke 0.5L,Paris Hub,331,1.31
+COCA_NY001,Coca-Cola 500ml,Paris Hub,162,3.79
+COKE500MLUK,CocaCola Original,New York Hub,192,1.01
+COCA_SG500,Coke 0.5L,London Hub,705,1.46
+COKE500MLUK,Coca Cola 0.5L,New York Hub,647,3.69
+COKE_TYO500,Coca-Cola 500ml,Delhi Hub,361,2.69
+COKE500MLUK,CocaCola - 500ml,Delhi Hub,143,1.71
+COKE001,Coca-Cola 500ml,Paris Hub,551,2.59
+CC500PAR,Coke 0.5L,Singapore Hub,113,2.65
+COKE500MLUK,Coke Classic,London Hub,692,2.47
+COCA500,CocaCola,Doha Hub,679,2.1
+COKE_DXB,Coca Cola,Tokyo Hub,781,1.21
